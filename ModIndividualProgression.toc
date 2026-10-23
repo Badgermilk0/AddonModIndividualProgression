@@ -1,0 +1,9 @@
+## Interface: 30300
+## Title: |cffFFD100Individual|r Progression
+## Notes: Read-only view of this character's mod-individual-progression tier: where it stands, what each tier unlocks, and how to reach the next one. Needs no server script.
+## Author: Custom
+## Version: 1.0
+## SavedVariables: ModIndividualProgressionDB
+
+ModIndividualProgressionSkin.lua
+ModIndividualProgression.lua
