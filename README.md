@@ -13,16 +13,18 @@ every tier unlocks, and which boss kill or quest grants the next tier.
 
 ## Install
 
-1. Copy the `ModIndividualProgression` folder into `Interface/AddOns/`. If you downloaded a
-   source zip, rename the folder to exactly `ModIndividualProgression`.
+1. Download the release zip (or **Code → Download ZIP**) and unzip it. Copy the
+   `ModIndividualProgression` folder inside it into the client's `Interface/AddOns/`, as is.
+   No renaming is needed. You should end up with
+   `Interface/AddOns/ModIndividualProgression/ModIndividualProgression.toc`.
 2. Fully restart the client (a new addon is only picked up at startup).
 3. Enable it at character select (turn on "Load out of date AddOns" if needed).
 4. In game: `/ipp` or `/progression`, or click the minimap button.
 
 ## Docs
 
-- [START.md](START.md): testing, where to make common changes, troubleshooting.
-- [DESIGN.md](DESIGN.md): data source, refresh rules, layout decisions, limits.
+- [START.md](ModIndividualProgression/START.md): testing, where to make common changes, troubleshooting.
+- [DESIGN.md](ModIndividualProgression/DESIGN.md): data source, refresh rules, layout decisions, limits.
 
 Links in those docs to `../LegacyServices/` point to the sibling addon this one was branched
 from. That addon is not part of this repository.
