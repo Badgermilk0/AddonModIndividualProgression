@@ -11,6 +11,9 @@ every tier unlocks, and which boss kill or quest grants the next tier.
 - **Read-only.** You can't buy or change anything from the window.
 - Can be installed next to the LegacyServices addon without conflicts.
 
+<img width="1228" height="717" alt="{B18B583B-9269-45E8-8D14-558649D3B17E}" src="https://github.com/user-attachments/assets/66090a9b-7ab5-4a0c-b25e-f4dcc4cb521a" />
+
+
 ## Install
 
 1. Download the release zip (or **Code → Download ZIP**) and unzip it. Copy the
